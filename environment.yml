@@ -1,0 +1,5 @@
+name: test
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/garrettreinhard/miniconda3/envs/test
